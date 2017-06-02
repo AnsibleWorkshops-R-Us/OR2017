@@ -62,3 +62,28 @@ However, you may have heard something about this "discussion" and the details
 might be confusing. Our recommendation is to use a Ruby version manager of some
 sort, either [RVM](https://rvm.io/) or [rbenv](http://www.rubyinside.com/rbenv-a-simple-new-ruby-version-management-tool-5302.html). We recommend rbenv, as it's a very light-weight/easy way to manage Ruby
 installations. RVM can be a bit strange. :-\
+
+## Additional Ansible Resources
+* [Alicia Cozine's Ansible for Hydra tutorial](https://github.com/curationexperts/ansible-hydra/wiki/Ansible-for-Hydra) *we make use of this material in our workshop, but you might want to star this repository for later*
+* [UCLA Library's Ansible Role Template](https://github.com/UCLALibrary/uclalib_role_template) *we will mention this towards the end of our workshop, but you might want to star this repository for later*
+* [Mr. Nice's blog post on Understanding Ansible](https://gist.github.com/MrNice/89a3bbe44e218c9d2309)
+*a concise introduction to Ansible*
+* [Ansible Tutorial by ServersForHackers.com](https://serversforhackers.com/an-ansible-tutorial) *another concise description of what Ansible is and how to use it, written mostly for devs*
+* [Ansible Best Practices](https://www.ansible.com/blog/ansible-best-practices-essentials) *the official best practices guide from Ansible*
+* [book: Ansible for Devops by Jeff Geerling](https://github.com/geerlingguy/ansible-for-devops)
+* [code: Jeff Geerling's GitHub repositories](https://github.com/geerlingguy)
+
+## Additional ServerSpec Resources
+* [video: a ServerSpec tutorial](https://www.youtube.com/watch?v=o_90_W7Btwo)
+
+## Combining ServerSpec and Ansible
+Here are two great articles on testing with ServerSpec and combining it with Ansible, however, a warning: save these for after you have gotten your bearings with Ansible and ServerSpec, do not let this more complex information scare you away from trying these tools out. *You do not have to get any of this perfect, you are learning.*
+* [Infrastructure Testing with Ansible and Serverspec - Part 1](https://sharknet.us/2014/02/04/infrastructure-testing-with-ansible-and-serverspec-part-1/)
+* [Infrastructure Testing with Ansible and Serverspec - Part 2](https://sharknet.us/2014/02/04/infrastructure-testing-with-ansible-and-serverspec-part-2/)
+
+And the example repository from those two articles:
+* [Ansible Sample TDD](https://github.com/volanja/ansible-sample-tdd)
+
+## License
+
+[Apache 2.0](https://opensource.org/licenses/Apache-2.0)
