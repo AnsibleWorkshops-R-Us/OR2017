@@ -58,10 +58,7 @@ too much about installing Ansible on your own.
 * Note: opinions differ on the "best way" to install Ruby on your computer. This
 really only matters if you plan to use Ruby extensively, if you already have Ruby
 installed, and it's version 1.9.x or higher, you will be fine for this workshop.
-
 However, you may have heard something about this "discussion" and the details
 might be confusing. Our recommendation is to use a Ruby version manager of some
-sort, either [RVM](https://rvm.io/) or [rbenv](http://www.rubyinside.com/rbenv-a-simple-new-ruby-version-management-tool-5302.html).
-
-We recommend rbenv, as it's a very light-weight/easy way to manage Ruby
+sort, either [RVM](https://rvm.io/) or [rbenv](http://www.rubyinside.com/rbenv-a-simple-new-ruby-version-management-tool-5302.html). We recommend rbenv, as it's a very light-weight/easy way to manage Ruby
 installations. RVM can be a bit strange. :-\
