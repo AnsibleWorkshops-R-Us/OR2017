@@ -1,8 +1,12 @@
 # OR2017
 ## OR2017 Workshop: Getting Started with Ansible and ServerSpec
 June 27, 2017, half day workshop, afternoon
-* Facilitated by
-*Hardy Pottinger*, UCLA Library ([orcid.org/0000-0001-8549-9354](https://orcid.org/00000001854993540000000185499354))
+* Facilitated by:
+  * *Hardy Pottinger*, UCLA Library ([orcid.org/0000-0001-8549-9354](https://orcid.org/00000001854993540000000185499354))
+* Additional collaborators:
+  * *Alicia Cozine*, Data Curation Experts
+  * *Anthony Vuong*, UCLA Library
+  * *Francis Kayiwa*, Princeton University Library
 
 ## Abstract
 
