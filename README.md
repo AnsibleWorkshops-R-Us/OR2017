@@ -42,7 +42,7 @@ software
 
 Ideally, you will have already installed the following software packages before
 you arrive at the workshop space:
-* [Ruby](https://www.ruby-lang.org/en/downloads/), version 1.9.x or higher (see note below)
+* [Ruby](https://www.ruby-lang.org/en/downloads/), version 2.0.x or higher (see note below)
 * the ServerSpec gem: `gem install serverspec`
 * [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
 * [Vagrant](https://www.vagrantup.com/downloads.html)
@@ -57,7 +57,7 @@ too much about installing Ansible on your own.
 
 * Note: opinions differ on the "best way" to install Ruby on your computer. This
 really only matters if you plan to use Ruby extensively, if you already have Ruby
-installed, and it's version 1.9.x or higher, you will be fine for this workshop.
+installed, and it's version 2.0.x or higher, you will be fine for this workshop.
 However, you may have heard something about this "discussion" and the details
 might be confusing. Our recommendation is to use a Ruby version manager of some
 sort, either [RVM](https://rvm.io/) or [rbenv](http://www.rubyinside.com/rbenv-a-simple-new-ruby-version-management-tool-5302.html). We recommend rbenv, as it's a very light-weight/easy way to manage Ruby
