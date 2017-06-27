@@ -79,7 +79,7 @@ installations. RVM can be a bit strange. :-\
 ## Combining ServerSpec and Ansible
 Here are two great articles on testing with ServerSpec and combining it with Ansible, however, a warning: save these for after you have gotten your bearings with Ansible and ServerSpec, do not let this more complex information scare you away from trying these tools out. *You do not have to get any of this perfect, you are learning.*
 * [Infrastructure Testing with Ansible and Serverspec - Part 1](https://sharknet.us/2014/02/04/infrastructure-testing-with-ansible-and-serverspec-part-1/)
-* [Infrastructure Testing with Ansible and Serverspec - Part 2](https://sharknet.us/2014/02/04/infrastructure-testing-with-ansible-and-serverspec-part-2/)
+* [Infrastructure Testing with Ansible and Serverspec - Part 2](https://sharknet.us/2014/02/06/infrastructure-testing-with-ansible-and-serverspec-part-2/)
 
 And the example repository from those two articles:
 * [Ansible Sample TDD](https://github.com/volanja/ansible-sample-tdd)
