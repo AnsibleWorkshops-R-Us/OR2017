@@ -63,6 +63,17 @@ might be confusing. Our recommendation is to use a Ruby version manager of some
 sort, either [RVM](https://rvm.io/) or [rbenv](http://www.rubyinside.com/rbenv-a-simple-new-ruby-version-management-tool-5302.html). We recommend rbenv, as it's a very light-weight/easy way to manage Ruby
 installations. RVM can be a bit strange. :-\
 
+## Workshop-o-matic, a Vagrant-managed workshop Virtual Machine
+updated 2017-07-13 13:10 CDT
+If you attended this workshop, you'll remember that we ran into some difficulties with the pre-baked VirtualBox 
+image we packaged on USB sticks for use at this workshop. We've revamped that machine to produce a new Vagrantfile,
+which you can use to bootstrap your own Vagrant-managed workshop VM. We're calling it [workshop-o-matic](https://github.com/AnsibleWorkshops-R-Us/workshop-o-matic) 
+and we're happy to report it has worked on every machine we've thrown it at so far.
+
+If you did not attend this workshop, but you'd like to follow along with our slides, please do go ahead and make use
+of the [workshop-o-matic](https://github.com/AnsibleWorkshops-R-Us/workshop-o-matic).
+
+
 ## Additional Ansible Resources
 * [Alicia Cozine's Ansible for Hydra tutorial](https://github.com/curationexperts/ansible-hydra/wiki/Ansible-for-Hydra) *we make use of this material in our workshop, but you might want to star this repository for later*
 * [UCLA Library's Ansible Role Template](https://github.com/UCLALibrary/uclalib_role_template) *we will mention this towards the end of our workshop, but you might want to star this repository for later*
